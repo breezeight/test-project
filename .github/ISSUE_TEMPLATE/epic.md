@@ -7,24 +7,12 @@ assignees: ''
 
 ---
 
-## Rationale ##
-
 ## Owner ##
 
-## Stakeholder Point of Contact ##
+## Description and Context ##
 
-## Dependencies ##
+## Stories ##
 
-## Description ##
-
-## Context ##
-
-## Issues ##
-
-- [ ]  Issue one
-- [ ]  issue two
-- [ ]  issue three
-
-## Acceptance criteria ##
-
-## Proof ##
+- [ ]  Story one
+- [ ]  Story two
+- [ ]  Story three
