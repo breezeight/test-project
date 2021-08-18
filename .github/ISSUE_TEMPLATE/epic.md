@@ -2,7 +2,7 @@
 name: Epic
 about: Template for creating epics
 title: "[EPIC] my epic title"
-labels: 'type: epic'
+labels: 'epic'
 assignees: ''
 
 ---
